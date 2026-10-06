@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.177.0](https://github.com/openfoodfacts/open-prices-frontend/compare/v1.176.0...v1.177.0) (2026-10-06)
+
+
+### Features
+
+* **Community:** add Popotam to the known reuses ([#2417](https://github.com/openfoodfacts/open-prices-frontend/issues/2417)) ([233a4bb](https://github.com/openfoodfacts/open-prices-frontend/commit/233a4bbdcb9f1d1688c80dae581fe49ba339d4dd))
+
+
+### Technical
+
+* **Proof Upload:** avoid proof image action icons to overflow ([#2411](https://github.com/openfoodfacts/open-prices-frontend/issues/2411)) ([f0fb2d2](https://github.com/openfoodfacts/open-prices-frontend/commit/f0fb2d2f54386fa9637fe56bf60184bcf396adde))
+
 ## [1.176.0](https://github.com/openfoodfacts/open-prices-frontend/compare/v1.175.0...v1.176.0) (2026-09-27)
 
 
